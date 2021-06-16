@@ -15,3 +15,9 @@ Copy all the gates into that folder and then
 2. Choose "Draft"
 3. Choose "Spice Directive'S'"
 
+![image](https://user-images.githubusercontent.com/64661719/122266928-f48c2000-cef7-11eb-9f9b-05321bb618af.png)
+
+4. Type this in ```.include 74hct.lib```
+
+You're all set up :)<br>
+A star would be appriciated
