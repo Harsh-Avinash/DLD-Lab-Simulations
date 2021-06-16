@@ -8,3 +8,10 @@ The software used is LT Spice using the Digital Logic Library
 (Optional)[ JK Flip Flop Library](https://drive.google.com/drive/folders/1AxNvEukkD_Not2DCSYs-KEuSgUy-gkGr?usp=sharing)
 
 Transfer the SYM files into the SYM folder, them SIM files into the SIM folder.
+For the LT Spice Libraries copy the .lib file into the SYM folder,
+Make another Folder in SYM Call it "JK and Other Flip Flops"
+Copy all the gates into that folder and then
+1. Right Click
+2. Choose "Draft"
+3. Choose "Spice Directive'S'"
+
