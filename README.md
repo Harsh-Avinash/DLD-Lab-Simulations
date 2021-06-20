@@ -21,4 +21,4 @@ Copy all the gates into that folder and then
 `.include 74hct.lib`
 
 You're all set up :)<br><br>
-A star would be appriciated
+A star would be appriciated, like [these people](https://github.com/Harsh-Avinash/DLD-Lab-Simulations/stargazers) did. 
