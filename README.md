@@ -18,7 +18,7 @@ Copy all the gates into that folder and then
 ![image](https://user-images.githubusercontent.com/64661719/122266928-f48c2000-cef7-11eb-9f9b-05321bb618af.png)
 
 4. Type this in <br>
-```.include 74hct.lib```
+`.include 74hct.lib`
 
-You're all set up :)<br>
+You're all set up :)<br><br>
 A star would be appriciated
